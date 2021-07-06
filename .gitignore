@@ -1,0 +1,5 @@
+.cache
+.pio
+.vscode
+doxygen/html
+doxygen/latex
