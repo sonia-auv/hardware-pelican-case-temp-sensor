@@ -1,2 +1,2 @@
-# Firmware_template
-template for new firmware project
+# Hardware Pelican Case Temp Sensor
+
